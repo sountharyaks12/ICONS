@@ -1,0 +1,13 @@
+h1{
+    /* text-align: center; */
+    color:#000066;
+}
+.hr1{
+    height: 10px;
+    background-color: black;
+}
+
+i{
+    font-size: 40px;
+    margin: 10px;
+}
